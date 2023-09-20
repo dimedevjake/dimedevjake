@@ -9,7 +9,7 @@
 iOS, Xcode, Swift, SwiftUI, Core Data, UIKit, Git
 
 ## Projects
-
+This habit tracking app lets you effortlessly count completed tasks, set helpful reminders, and gain valuable insights to boost productivity. 
 ![Alt Text](Images/IMG_6857.jpeg) 
 
 ## About Me
