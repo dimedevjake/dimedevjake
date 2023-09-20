@@ -12,6 +12,9 @@ iOS, Xcode, Swift, SwiftUI, Core Data, UIKit, Git
 This habit tracking app lets you effortlessly count completed tasks, set helpful reminders, and gain valuable insights to boost productivity. Used SwiftUI and Core Data. 
 ![Alt Text](Images/IMG_6857.jpeg) 
 
+This app adds, saves, and secures favorite spots on a map using SwiftUI and MapKit. Data is protected by Face ID. 
+![Alt Text](Images/IMG_6860.jpeg) ![Alt Text](Images/IMG_6861.jpeg) 
+
 ## About Me
 I'm a passionate iOS Developer with a keen eye for detail and a strong proficiency in Swift. I have a deep understanding of iOS app architecture and design patterns, including MVC and MVVM. My experience with essential iOS development tools such as Xcode, Interface Builder, and Instruments has enabled me to write efficient, clean, and maintainable code.
 
