@@ -8,6 +8,10 @@
 ## Skills
 iOS, Xcode, Swift, SwiftUI, Core Data, UIKit, Git
 
+## Projects
+
+![Alt Text](Images/IMG_6857.jpeg) 
+
 ## About Me
 I'm a passionate iOS Developer with a keen eye for detail and a strong proficiency in Swift. I have a deep understanding of iOS app architecture and design patterns, including MVC and MVVM. My experience with essential iOS development tools such as Xcode, Interface Builder, and Instruments has enabled me to write efficient, clean, and maintainable code.
 
