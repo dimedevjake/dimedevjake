@@ -15,6 +15,9 @@ This habit tracking app lets you effortlessly count completed tasks, set helpful
 This app adds, saves, and secures favorite spots on a map using SwiftUI and MapKit. Data is protected by Face ID. 
 ![Alt Text](Images/IMG_6860.jpeg) ![Alt Text](Images/IMG_6861.jpeg) 
 
+In this Moonshot app, I decoded JSON data and presented information that delves into the rich history of NASA's Apollo space program to the client.
+![Alt Text](Images/IMG_6862.jpeg) 
+
 ## About Me
 I'm a passionate iOS Developer with a keen eye for detail and a strong proficiency in Swift. I have a deep understanding of iOS app architecture and design patterns, including MVC and MVVM. My experience with essential iOS development tools such as Xcode, Interface Builder, and Instruments has enabled me to write efficient, clean, and maintainable code.
 
