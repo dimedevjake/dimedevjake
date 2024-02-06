@@ -1,5 +1,5 @@
 ## Summary
-https://www.codewars.com/users/dimedevjake/badges/large
+![Alt Text](https://www.codewars.com/users/dimedevjake/badges/large)
 * iOS Development
 * Project Management
 * Knowledge of MVC, MVVM Architecture
